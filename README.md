@@ -75,3 +75,8 @@ We are deeply grateful to:
 - Integrating real-time trial updates.
 - Fine-tuning specialized language models for FDA prediction tasks.
 - Expanding feature sets with sponsor data and trial methodologies.
+
+---
+For further inquiries, feel free to reach out at mofeiwang@hotmail.com.
+
+
